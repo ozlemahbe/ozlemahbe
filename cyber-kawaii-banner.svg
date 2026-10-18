@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 405" role="img" aria-label="Cyber Kawaii banner: Hello, I'm Özlem AHBE – computer engineering student, Flutter developer and AI explorer">
+  <defs>
+    <linearGradient id="back" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#17112C"/><stop offset=".62" stop-color="#20173D"/><stop offset="1" stop-color="#17112C"/></linearGradient>
+    <linearGradient id="pink" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#FF4CBD"/><stop offset="1" stop-color="#FF83E4"/></linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#00E6F0"/><stop offset="1" stop-color="#A57CFF"/></linearGradient>
+    <radialGradient id="vapor"><stop stop-color="#FF4CBD" stop-opacity=".27"/><stop offset="1" stop-color="#FF4CBD" stop-opacity="0"/></radialGradient>
+    <radialGradient id="aqua"><stop stop-color="#00E6F0" stop-opacity=".22"/><stop offset="1" stop-color="#00E6F0" stop-opacity="0"/></radialGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="18"/></filter>
+    <pattern id="dots" width="29" height="29" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#A57CFF" opacity=".19"/></pattern>
+    <clipPath id="clip"><rect width="1200" height="405" rx="26"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="405" fill="url(#back)"/>
+    <rect width="1200" height="405" fill="url(#dots)"/>
+    <ellipse cx="1180" cy="90" rx="350" ry="270" fill="url(#aqua)"/>
+    <ellipse cx="70" cy="362" rx="430" ry="230" fill="url(#vapor)"/>
+    <path d="M0 354 C248 291, 363 450, 600 367 S932 330, 1200 386" fill="none" stroke="#A57CFF" stroke-width="2" opacity=".20"/>
+    <path d="M0 376 C248 313, 363 470, 600 389 S932 350, 1200 408" fill="none" stroke="#FF4CBD" stroke-width="2" opacity=".25"/>
+    <rect x="19" y="19" width="1162" height="367" rx="19" fill="none" stroke="#A57CFF" stroke-opacity=".36" stroke-width="1.5"/>
+    <path d="M19 66 H1181" fill="none" stroke="#A57CFF" stroke-opacity=".28"/>
+    <circle cx="47" cy="43" r="6" fill="#FF4CBD"/><circle cx="68" cy="43" r="6" fill="#A57CFF"/><circle cx="89" cy="43" r="6" fill="#00E6F0"/>
+    <text x="113" y="49" fill="#D5C5F7" font-family="Verdana,Arial,sans-serif" font-size="13" letter-spacing="2">ozlemahbe / hello-world.exe</text>
+    <g font-family="Verdana,Arial,sans-serif" font-size="12" fill="#A57CFF"><text x="1060" y="48">ONLINE</text></g>
+    <text x="61" y="121" fill="#00E6F0" font-family="Verdana,Arial,sans-serif" font-size="19" letter-spacing="4" font-weight="bold">WELCOME TO MY UNIVERSE</text>
+    <text x="58" y="202" fill="url(#pink)" font-family="Arial,'DejaVu Sans',sans-serif" font-size="72" font-weight="900" letter-spacing="-2">Özlem AHBE</text>
+    <rect x="60" y="222" width="514" height="2" fill="url(#blue)" opacity=".8"/>
+    <text x="62" y="254" fill="#F3E8FF" font-family="Arial,sans-serif" font-size="22" font-weight="500">Computer Engineering Student</text>
+    <text x="62" y="285" fill="#BFC0E9" font-family="Arial,sans-serif" font-size="17">Flutter Developer  <tspan fill="#00E6F0">/</tspan>  AI Explorer  <tspan fill="#FF4CBD">/</tspan>  Year 02</text>
+    <g font-family="Arial,sans-serif" font-size="14" font-weight="bold">
+      <rect x="60" y="308" width="145" height="34" rx="17" fill="#FF4CBD"/><text x="83" y="330" fill="#17112C">CREATIVE</text>
+      <rect x="215" y="308" width="151" height="34" rx="17" fill="#00E6F0"/><text x="234" y="330" fill="#17112C">BUILDING</text>
+      <rect x="376" y="308" width="152" height="34" rx="17" fill="#A57CFF"/><text x="402" y="330" fill="#17112C">LEARNING</text>
+    </g>
+    <!-- Kawaii cyber companion: neon robot / monitor -->
+    <g transform="translate(802,83)">
+      <ellipse cx="166" cy="241" rx="193" ry="87" fill="#00E6F0" opacity=".11" filter="url(#soft)"/>
+      <path d="M61 77 L79 18 L122 65 M226 65 L275 18 L289 90" fill="#282145" stroke="#A57CFF" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M80 28 L87 64 L112 62Z M264 31 L230 63 L268 82Z" fill="#FF4CBD"/>
+      <rect x="40" y="69" width="269" height="219" rx="54" fill="#151127" stroke="#00E6F0" stroke-width="7"/>
+      <rect x="54" y="84" width="241" height="189" rx="42" fill="#292249" stroke="#A57CFF" stroke-opacity=".54" stroke-width="2"/>
+      <rect x="79" y="117" width="188" height="115" rx="36" fill="#1C1738"/>
+      <g filter="url(#glow)"><ellipse cx="127" cy="160" rx="13" ry="22" fill="#00E6F0"/><ellipse cx="219" cy="160" rx="13" ry="22" fill="#00E6F0"/></g>
+      <ellipse cx="106" cy="204" rx="20" ry="9" fill="#FF4CBD" opacity=".48"/><ellipse cx="241" cy="204" rx="20" ry="9" fill="#FF4CBD" opacity=".48"/>
+      <path d="M155 198 Q173 219 191 198" fill="none" stroke="#FF80D7" stroke-width="5" stroke-linecap="round"/>
+      <path d="M169 115 l6 -12 l6 12 l12 6 l-12 6 l-6 12 l-6 -12 l-12 -6Z" fill="#FF4CBD"/>
+      <rect x="119" y="290" width="112" height="26" rx="13" fill="#A57CFF"/>
+      <circle cx="175" cy="303" r="6" fill="#17112C"/>
+      <path d="M21 115 L2 109 M21 168 L1 177 M327 107 L348 97 M329 169 L350 180" stroke="#00E6F0" stroke-width="4" stroke-linecap="round" opacity=".7"/>
+    </g>
+    <g fill="#FF4CBD" filter="url(#glow)"><path d="M744 100 l5 15 15 5 -15 5 -5 15 -5 -15 -15 -5 15 -5Z"/><path d="M1121 280 l4 12 12 4 -12 4 -4 12 -4 -12 -12 -4 12 -4Z"/></g>
+    <g fill="#00E6F0"><circle cx="740" cy="308" r="4"/><circle cx="1134" cy="118" r="5"/><circle cx="710" cy="227" r="3"/></g>
+    <g fill="#A57CFF"><path d="M1102 94 l3 10 10 3 -10 3 -3 10 -3 -10 -10 -3 10 -3Z"/><path d="M665 169 l3 10 10 3 -10 3 -3 10 -3 -10 -10 -3 10 -3Z"/></g>
+    <rect x="20" y="376" width="1160" height="10" fill="url(#blue)" opacity=".58"/>
+  </g>
+</svg>
