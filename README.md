@@ -1,38 +1,39 @@
 # Hello 👋, I'm Özlem Ahbe
-### Junıor Developer
+### Junior Developer
 
-Computer Engineering Student 
+Computer Engineering Student
 
 ## Contact Me
-<p><a href="https://www.linkedin.com/in/doldurulacak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://ozlemahbe.com" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> </p>
+<p><a href="https://www.linkedin.com/in/özlem-ahbe-780182386/?isSelfProfile=true" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://ozlemahbe.com" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> </p>
 
 ## Skills
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>&nbsp;
 </p>
 
 ## Projects
 
-### Cute Notes
+### Cute Note
 
-Akıllı not defteri uygulaması
+A simple notebook application
 
-[View Project](https://github..doldurulacak.)
+[View Project](https://www.linkedin.com/in/özlem-ahbe-780182386/?isSelfProfile=true)
 
 ---
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ozlemahbe&show_icons=true&count_private=true&theme=radical" alt="GitHub İstatistikleri" />
+<img src="https://github-readme-stats.vercel.app/api?username=ozlemahbe&show_icons=true&count_private=true&theme=null" alt="GitHub Statistics" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozlemahbe&layout=compact&theme=radical" alt="En Çok Kullanılan Diller" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozlemahbe&layout=compact&theme=null" alt="Most used languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ozlemahbe&theme=radical" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ozlemahbe&theme=null" alt="GitHub Streak" />
 
+[README.md](https://github.com/user-attachments/files/33633190/README.md)
