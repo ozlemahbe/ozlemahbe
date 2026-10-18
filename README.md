@@ -1,79 +1,119 @@
 
-<!-- ✿ A little pastel corner of GitHub ✿ -->
+<!-- ✦ CYBER KAWAII PROFILE · ozlemahbe ✦ -->
+<!-- Palette: midnight #17112C · hot pink #FF4CBD · electric cyan #00E6F0 · ultraviolet #A57CFF -->
 
 <div align="center">
-  <img width="100%" alt="Pastel banner welcoming visitors to Özlem AHBE's GitHub profile" src="https://capsule-render.vercel.app/api?type=waving&color=0:FBE0EC,50:DDD5FC,100:C8EDE6&height=230&section=header&text=Hello%2C%20I%27m%20%C3%96zlem%20AHBE%21&fontColor=695678&fontSize=42&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Flutter%20Developer&descSize=18&descColor=786783&descAlignY=60&animation=fadeIn" />
+  <img src="./assets/cyber-kawaii-banner.svg" width="100%" alt="Cyber Kawaii: Özlem AHBE — Computer Engineering Student, Flutter Developer and AI Explorer" />
+
+  <br />
 
   <a href="https://github.com/ozlemahbe">
-    <img alt="Animated introduction" src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&duration=3300&pause=1100&color=B57FA8&center=true&vCenter=true&width=660&height=55&lines=Building+little+things+with+big+dreams+%E2%9C%A8;Flutter+%E2%80%A2+Mobile+Apps+%E2%80%A2+AI+%F0%9F%8C%B7;Learning%2C+creating%2C+and+growing+every+day+%E2%98%81%EF%B8%8F" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=850&color=FF4CBD&center=true&vCenter=true&width=760&height=62&lines=%E2%9C%A6+Code%2C+create%2C+repeat!;%E2%99%A1+Building+cute+apps+with+Flutter;%E2%9A%A1+Exploring+AI-powered+search;%E2%9C%A8+Small+commits%2C+big+dreams" alt="Animated text: Code, create, repeat! Building cute apps with Flutter. Exploring AI-powered search." />
   </a>
 
-  <p><em>Curious mind, creative code, and a soft spot for lovely interfaces. ☁️</em></p>
+  <br />
 
-  <img alt="Computer Engineering, Year 2" src="https://img.shields.io/badge/Computer%20Engineering-Year%202-ECCAF0?style=flat-square&labelColor=FFF7FC&color=E4C6EB" />
-  <img alt="Flutter developer" src="https://img.shields.io/badge/Flutter-Mobile%20Development-C3EAE9?style=flat-square&labelColor=FFF7FC&color=C3EAE9" />
-  <img alt="Exploring AI" src="https://img.shields.io/badge/Currently%20Exploring-AI%20Search-F4D2E1?style=flat-square&labelColor=FFF7FC&color=F4D2E1" />
+  <img src="https://img.shields.io/badge/STATUS-BUILDING%20COOL%20THINGS-FF4CBD?style=for-the-badge&labelColor=17112C" alt="Status: Building cool things" />
+  <img src="https://img.shields.io/badge/FOCUS-FLUTTER%20%2B%20AI-00E6F0?style=for-the-badge&labelColor=17112C" alt="Focus: Flutter and AI" />
+  <img src="https://img.shields.io/badge/MOOD-CREATIVE%20MODE%20ON-A57CFF?style=for-the-badge&labelColor=17112C" alt="Mood: Creative mode on" />
 </div>
 
----
+<br />
 
-### 🌸 A little about me
+## ✦ About me
 
-- 🎓 I'm a **second-year Computer Engineering student**.
-- 📱 I build **mobile applications with Flutter and Dart**.
-- 🔎 I'm developing an **AI-assisted deep web search application**.
-- 🧸 I love combining practical ideas with simple, delightful design.
-- 🌱 Every project is another chance to learn something new.
+```text
+> hi! i'm Özlem ♡
+> 2nd-year computer engineering student
+> making mobile apps with Flutter + Dart
+> exploring AI-assisted deep web research
+> learning, experimenting, improving... ✨
+```
 
-### 🧁 My tech toolbox
+- 📱 **What I'm building:** thoughtful, playful mobile applications.
+- 🔎 **What I'm exploring:** AI-assisted search and research experiences.
+- 🎨 **What inspires me:** a blend of useful features and memorable interfaces.
+- 🚀 **My philosophy:** *make it work, make it better, make it lovely.*
 
 <div align="center">
-  <img alt="Technology icons: Flutter, Dart, Python, C#, C++, HTML, CSS, JavaScript" src="https://skillicons.dev/icons?i=flutter,dart,python,cs,cpp,html,css,js&theme=light&perline=8" />
-  <br />
-  <sub>Flutter · Dart · Python · C# · C++ · HTML · CSS · JavaScript</sub>
+  <img src="https://img.shields.io/badge/%E2%9C%A6%20Curiosity-ON-FF4CBD?style=flat-square&labelColor=17112C" alt="Curiosity on" />
+  <img src="https://img.shields.io/badge/%E2%9D%A4%20Creativity-100%25-A57CFF?style=flat-square&labelColor=17112C" alt="Creativity 100 percent" />
+  <img src="https://img.shields.io/badge/%E2%9A%A1%20Learning-EVERY%20DAY-00E6F0?style=flat-square&labelColor=17112C" alt="Learning every day" />
 </div>
 
-### 📓 Featured project · Cute Note
+<br />
+
+## ⌘ Tech playground
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,cs,cpp,html,css,js&theme=dark&perline=8" alt="Flutter, Dart, Python, C Sharp, C Plus Plus, HTML, CSS, JavaScript" />
+
+  <br /><br />
+
+  <img src="https://img.shields.io/badge/MOBILE-Flutter%20%2B%20Dart-00E6F0?style=for-the-badge&labelColor=17112C" alt="Mobile: Flutter and Dart" />
+  <img src="https://img.shields.io/badge/CODING-Python%20%7C%20C%23%20%7C%20C%2B%2B-A57CFF?style=for-the-badge&labelColor=17112C" alt="Coding: Python, C Sharp, C Plus Plus" />
+  <img src="https://img.shields.io/badge/WEB-HTML%20%7C%20CSS%20%7C%20JS-FF4CBD?style=for-the-badge&labelColor=17112C" alt="Web: HTML, CSS, JavaScript" />
+</div>
+
+<br />
+
+## ♡ In my little workshop
 
 <table>
   <tr>
-    <td>
-      <strong>🌷 Cute Note</strong><br /><br />
-      A cozy, user-friendly note-taking app I'm working on — making it easier to keep ideas, thoughts, and everyday notes together.<br /><br />
-      <em>Focus:</em> Mobile experience · Thoughtful UI · Everyday organization<br /><br />
+    <td width="50%" valign="top">
+      <h3>📓 Cute Note</h3>
+      <p>A cheerful note-taking app concept that makes organizing everyday ideas feel a little more delightful.</p>
+      <p><strong>Focus:</strong> Flutter · Mobile UI · Notes</p>
       <a href="https://github.com/ozlemahbe?tab=repositories">Explore my repositories ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔮 AI Search Lab</h3>
+      <p>Exploring a research-oriented, AI-assisted deep web search application. A work in progress as I learn and experiment.</p>
+      <p><strong>Focus:</strong> AI · Search · Research</p>
+      <a href="https://github.com/ozlemahbe?tab=repositories">See what I'm working on ↗</a>
     </td>
   </tr>
 </table>
 
-### ✨ A peek at my GitHub
+<br />
+
+## ⚡ GitHub energy
 
 <div align="center">
-  <img alt="Özlem's GitHub statistics" height="170" src="https://github-readme-stats.vercel.app/api?username=ozlemahbe&show_icons=true&hide_border=true&bg_color=FFF8FC&title_color=AE7DA8&text_color=6D6177&icon_color=DCA0B8&rank_icon=github" />
-  <img alt="Most-used languages in public repositories" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozlemahbe&layout=compact&hide_border=true&bg_color=FFF8FC&title_color=AE7DA8&text_color=6D6177&langs_count=6" />
+  <img height="177" src="https://github-readme-stats.vercel.app/api?username=ozlemahbe&show_icons=true&rank_icon=github&bg_color=17112C&title_color=FF4CBD&text_color=EFE7FF&icon_color=00E6F0&border_color=A57CFF&border_radius=15" alt="GitHub statistics for ozlemahbe" />
+  <img height="177" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozlemahbe&layout=compact&langs_count=6&bg_color=17112C&title_color=FF4CBD&text_color=EFE7FF&border_color=A57CFF&border_radius=15" alt="Most-used languages in ozlemahbe public repositories" />
+
+  <br /><br />
+
+  <sub>Stats and language charts come from public GitHub repository activity.</sub>
 </div>
 
-### 🐍 My contribution garden
+<br />
+
+## 🐍 Contribution arcade
 
 <div align="center">
-  <!-- Generated automatically by .github/workflows/snake.yml -->
+  <!-- Snake SVGs are generated by .github/workflows/snake.yml into the output branch. -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ozlemahbe/ozlemahbe/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ozlemahbe/ozlemahbe/output/snake.svg" />
-    <img alt="Pastel snake eating GitHub contributions" src="https://raw.githubusercontent.com/ozlemahbe/ozlemahbe/output/snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ozlemahbe/ozlemahbe/output/cyber-kawaii-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ozlemahbe/ozlemahbe/output/cyber-kawaii-snake.svg" />
+    <img src="https://raw.githubusercontent.com/ozlemahbe/ozlemahbe/output/cyber-kawaii-snake.svg" width="100%" alt="Neon cyber kawaii snake eating contribution squares" />
   </picture>
+
   <br />
-  <sub>Little steps, lovely progress. 🌼</sub>
+  <sub>Every little contribution counts. ✦</sub>
 </div>
 
----
+<br />
 
 <div align="center">
-  <strong>Thanks for stopping by! ♡</strong><br />
-  <sub>Let's make something wonderful, one commit at a time.</sub><br /><br />
-  <a href="https://github.com/ozlemahbe">
-    <img alt="GitHub profile: ozlemahbe" src="https://img.shields.io/badge/Find%20me%20on-GitHub-BB9DCC?style=for-the-badge&logo=github&logoColor=685678" />
-  </a>
-</div>
+  <h3>✦ Let's make something magical ✦</h3>
+  <p>Powered by curiosity, caffeine-free creativity, and a lot of debugging. ♡</p>
 
-<img width="100%" alt="Pastel wave footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:FBE0EC,50:DDD5FC,100:C8EDE6&height=105&section=footer" />
+  <a href="https://github.com/ozlemahbe">
+    <img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-ozlemahbe-FF4CBD?style=for-the-badge&logo=github&logoColor=white&labelColor=17112C" alt="Visit Özlem's GitHub profile" />
+  </a>
+
+  <p><sub>made with ♡ and a little neon magic · © Özlem AHBE</sub></p>
+</div>
