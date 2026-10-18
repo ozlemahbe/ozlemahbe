@@ -36,4 +36,3 @@ A simple notebook application
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozlemahbe&theme=null" alt="GitHub Streak" />
 
-[README.md](https://github.com/user-attachments/files/33633190/README.md)
