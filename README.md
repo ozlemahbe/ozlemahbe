@@ -3,7 +3,7 @@
 <!-- Palette: midnight #17112C · hot pink #FF4CBD · electric cyan #00E6F0 · ultraviolet #A57CFF -->
 
 <div align="center">
-  <img src="./assets/cyber-kawaii-banner.svg" width="100%" alt="Cyber Kawaii: Özlem AHBE — Computer Engineering Student, Flutter Developer and AI Explorer" />
+  <img src="./cyber-kawaii-banner.svg" width="100%" alt="Cyber Kawaii: Özlem AHBE — Computer Engineering Student, Flutter Developer and AI Explorer" />
 
   <br />
 
