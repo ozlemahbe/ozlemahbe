@@ -30,9 +30,9 @@ A simple notebook application
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ozlemahbe&show_icons=true&count_private=true&theme=null" alt="GitHub Statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=ozlemahbe&show_icons=true&count_private=true&theme=radical" alt="GitHub Statistics" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozlemahbe&layout=compact&theme=null" alt="Most used languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozlemahbe&layout=compact&theme=radical" alt="Most used languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ozlemahbe&theme=null" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ozlemahbe&theme=radical" alt="GitHub Streak" />
 
